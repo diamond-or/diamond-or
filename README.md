@@ -8,11 +8,11 @@
 Welcome to my portfolio, where I showcase my [projects].
 
 🛠️ Tools
-Language: SQL, Python, R Programming 
-Database: PostgreSQL, MySQL
-Visualization: Tableau, Python, R Programming, Excel
+- Language: SQL, Python, R Programming 
+- Database: PostgreSQL, MySQL
+- Visualization: Tableau, Python, R Programming, Excel
 
 👋🏻 Connect with Me
-[Linkedin](https://www.linkedin.com/in/diamond-or/)
+- [Linkedin](https://www.linkedin.com/in/diamond-or/)
 
 
