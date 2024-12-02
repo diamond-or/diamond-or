@@ -4,15 +4,15 @@
 - Building dashboards in Tableau and Excel.
 - Analyzing and reporting data using Google Sheets and Excel.
 
-# 📚 Projects
+### 📚 Projects
 Welcome to my portfolio, where I showcase my [projects].
 
-# 🛠️ Tools
+### 🛠️ Tools
 - Language: SQL, Python, R Programming 
 - Database: PostgreSQL, MySQL
 - Visualization: Tableau, Python, R Programming, Excel
 
-# 👋🏻 Connect with Me
+### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/diamond-or/)
 
 
