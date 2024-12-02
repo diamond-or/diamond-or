@@ -13,6 +13,6 @@ Database: PostgreSQL, MySQL
 Visualization: Tableau, Python, R Programming, Excel
 
 👋🏻 Connect with Me
-[Linkedin](https://pages.github.com/](https://www.linkedin.com/in/diamond-or/)
+[Linkedin](https://www.linkedin.com/in/diamond-or/)
 
 
