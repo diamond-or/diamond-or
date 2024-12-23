@@ -1,4 +1,4 @@
-# 🧑🏻 Introducting abit of myself
+# 🧑🏻 Introducing myself
 ![294239_GettyImages-1158524088_medium_uncropped-F-1920x600](https://github.com/user-attachments/assets/84b3e278-ec7e-49a4-a812-ce8969612741)
 👋 Hi, I’m Diamond Or, a Data Analyst.
 - Extracting data through SQL queries.
